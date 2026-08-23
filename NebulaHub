@@ -1,3 +1,1 @@
-script_key = "trial"
-
-loadstring(game:HttpGet("https://api.getpolsec.com/scripts/hosted/2202c66a6fc6e19a1bb09c792c47596b3a7871abaa508da0403e1e78f7241cee.lua"))()
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/ad307b73beb53a4e1f59f4ac1b4332cccb98ac1ed5926dc4b64e51bd0429e254/download"))()
